@@ -6,9 +6,9 @@ This is the term project for CS 210, File and Data Structures. Follow the instru
 
 I am the author of all original work committed to this repository, as identified below.
 
-+ **Full Name:** My Full Name
-+ **School Email:** example@mix.wvu.edu
-+ **Student ID:** 000000000
++ **Full Name:** Kevin Nguyen
++ **School Email:** kn0027@mix.wvu.edu
++ **Student ID:** 800254304
 
 ## Academic Integrity Pledge
 
